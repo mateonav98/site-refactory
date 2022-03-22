@@ -1,3 +1,5 @@
+<style>
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -198,3 +200,5 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+
+</style>

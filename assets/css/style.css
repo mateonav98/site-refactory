@@ -1,4 +1,4 @@
-<style>
+
 
 * {
     box-sizing: border-box;
@@ -23,7 +23,7 @@ body {
 }
 
 .header h1 .seo {
-    color: #000000;
+    color: #d9dcd6;
 }
 
 .header div {
@@ -200,5 +200,3 @@ p {
 .footer h2 {
     font-size: 20px;
 }
-
-</style>

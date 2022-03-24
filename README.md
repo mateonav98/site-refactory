@@ -12,6 +12,7 @@ Refactor exisiting code
 4. Included alt altributes for all images
 5. All links in header are now working
 6. Comments on html and css file
+7. Updated HTML elements with header, navigation, footer, etc
 
 ## Links
 

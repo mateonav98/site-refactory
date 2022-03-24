@@ -8,30 +8,31 @@
     <!-- Updated Website Browser Page -->
 </head>
 
+<header class="header">
+    <!-- Labeled header -->
+    <h1>Hori<span class="seo">seo</span>n</h1>
+    <nav role="navigation">
+    <!-- Labeled navigation;
+        Links will take you to area of page content is located
+        Organized <li> tags -->
+        <ul>
+            <li> <a href="#search-engine-optimization">Search Engine Optimization</a></li>
+            <li> <a href="#online-reputation-management">Online Reputation Management</a></li>
+            <li> <a href="#social-media-marketing">Social Media Marketing</a></li>
+        </ul> 
+    </nav>
+</header>
+
 <body>
-    <div class="header" role="banner">
-        <!-- Labeled banner -->
-        <h1>Hori<span class="seo">seo</span>n</h1>
-        <div role="navigation" aria-label="main navigation" aria-activedescendant="">
-            <!-- Navigation Section;
-                Links will take you to area of page content is located
-                Organized <li> tags -->
-            <ul>
-                <li> <a href="#search-engine-optimization">Search Engine Optimization</a></li>
-                <li> <a href="#online-reputation-management">Online Reputation Management</a></li>
-                <li> <a href="#social-media-marketing">Social Media Marketing</a></li>
-            </ul> 
-        </div>
-    </div>
-
-    <div role="img">
+    <complementary role="img">
         <!-- Added large image to include alt attributes -->
-        <img class="hero" src="./assets/images/digital-marketing-meeting.jpg" alt="Digital Marketing Meeting"/>
-    </div>
+        <img class="hero" src="./assets/images/digital-marketing-meeting.jpg" alt="Digital Marketing Meeting. 4 professionals working together at table. Paper, computer, and waters at table"/>
+    </complementary>
 
-    <div class="content" role="main">
-        <!-- Added role; 
-            Added alt attributes;
+    <!-- <main> -->
+    <!-- Main section of Page -->
+    <main class="content">
+        <!-- Added alt attributes;
             Added search-engine-optimization id;
             Organized <h2> and <p> tags -->
         <div id="search-engine-optimization" class="search-engine-optimization">
@@ -49,12 +50,10 @@
             <h2>Social Media Marketing</h2>
             <p>Social media continues to have a sizable influence on buying habits. Social media marketing helps you determine which platforms are suited to your brand, using analytics to find the right markets and increase your lead generation.</p>
         </div>
-    </div>
+    </main>
 
-
-    <div class="benefits" role="main">
-        <!-- Added role; 
-            Organized <h3> and <p> tags -->
+    <aside class="benefits">
+        <!-- Organized <h3> and <p> tags -->
         <div class="benefit-lead">
             <h3>Lead Generation</h3>
             <img src="./assets/images/lead-generation.png" alt="half of gear and money symbol"/>
@@ -70,14 +69,14 @@
             <img src="./assets/images/cost-management.png" alt="gear symbol with $"/>
             <p>As the search ranking for your business increases, your advertising costs decrease, and you no longer need to advertise your page.</p>
         </div>
-    </div>
-
-    <div class="footer" role="contentinfo">
-        <!-- Added role;
-            changed header tag to h4-->
-        <h4>Made with ❤️️ by Horiseon</h4>
-        <p>&copy; 2019 Horiseon Social Solution Services, Inc.</p>
-    </div>
+    </aside>
 </body>
+
+<footer>
+    <!-- Added footer tag;
+        changed header tag to h4-->
+    <h4>Made with ❤️️ by Horiseon</h4>
+    <p>&copy; 2019 Horiseon Social Solution Services, Inc.</p>
+</footer>
 
 </html>

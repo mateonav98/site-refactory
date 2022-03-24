@@ -1,13 +1,13 @@
 
 * {
-    box-sizing: border-box;
+    box-sizing:border-box;
     padding: 0;
     margin: 0;
-}
+} /* Fits everything in screen*/
 
 body {
     background-color: #d9dcd6;
-}
+} /* Seetting background color */
 
 .header {
     padding: 20px;
@@ -15,15 +15,15 @@ body {
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/*  */
 .header h1 {
     display: inline-block;
     font-size: 48px;
-}
+} /* Puts header links in-line and changes font of Horiseon*/
 
 .header h1 .seo {
     color: #d9dcd6;
-}
+} /* Changes color of letters "SEO" in Horiseon */
 
 .header div {
     padding-top: 15px;
@@ -31,25 +31,26 @@ body {
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
-}
+} /* Moves header links to the right, adds margin, styles font of links, and adds padding*/
 
-.header div ul {
-    list-style-type: none;
-}
-
+/* .header div ul { */
+    /* list-style-type: none; */
+/* } This didn't seem to have any impact on the code so I am not including it*/
+ 
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
-}
+} /* Header links display in line and left margins added */
 
 a {
     color: #ffffff;
     text-decoration: none;
 }
+/* Color of in line links, removes underlining of links */
 
 p {
     font-size: 16px;
-}
+}/* Paragraph font size */
 
 .hero {
     height: 800px;
@@ -57,23 +58,23 @@ p {
     margin-bottom: 25px;
     background-size: cover;
     background-position: center;
-}
+}/* Styling for large top image */
 
 .float-left {
     float: left;
     margin-right: 25px;
-}
+} /* Moves image to the left */
 
 .float-right {
     float: right;
     margin-left: 25px;
-}
+} /* Moves image to the right */
 
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
-}
+} /* change width, display, and margins */
 
 .benefits {
     margin-right: 20px;
@@ -84,55 +85,55 @@ p {
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
-}
+}/* Changes width, margins, font styling, and moves to the right  */
 
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
-}
+} /* changes margin and color */
 
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
-}
+} /* changes margin and color */
 
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
-}
+} /* changes margin and color */
 
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
-}
+} /* changes margin and alignment of text */
 
 .benefit-brand h3 {
     margin-bottom: 10px;
     text-align: center;
-}
+} /* changes margin and alignment of text */
 
 .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
-}
+} /* changes margin and alignment of text */
 
 .benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
+} /* display icon in the center  */
 
 .benefit-brand img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
+} /* display icon in the center  */
 
 .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
+} /* display icon in the center  */
 
 .search-engine-optimization {
     margin-bottom: 20px;
@@ -141,7 +142,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
-}
+} /* background color, text styling, and padding */
 
 .online-reputation-management {
     margin-bottom: 20px;
@@ -150,7 +151,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
-}
+} /* background color, text styling, and padding */
 
 .social-media-marketing {
     margin-bottom: 20px;
@@ -159,42 +160,42 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
-}
+} /* background color, text styling and padding */
 
 .search-engine-optimization img {
     max-height: 200px;
-}
+} /* adjust image height */
 
 .online-reputation-management img {
     max-height: 200px;
-}
+} /* adjust image height */
 
 .social-media-marketing img {
     max-height: 200px;
-}
+} /* adjust image height */
 
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
-}
+} /* changes font size and margins  */
 
 .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
-}
+} /* changes font size and margins  */
 
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
-}
+} /* changes font size and margins  */
 
 .footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
-}
+} /* footer styling, centering, and padding */
 
 .footer h4 {
     font-size: 20px;
-}
+} /* footer font size  */

@@ -1,4 +1,4 @@
-# Site Refactory - Mateo Navarro
+# Site Refactory
 
 ## Task
 
@@ -18,3 +18,8 @@ Refactor exisiting code
 
 1. Website Link: https://mateonav98.github.io/site-refactory/
 2. GitHub Link: https://github.com/mateonav98/site-refactory
+
+## Authors
+
+Mateo Navarro
+UCB Coding Bootcamp

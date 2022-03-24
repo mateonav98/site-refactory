@@ -3,8 +3,8 @@
 ## Task
 Refactor exisiting code
 
-## Task
-Changes Made: 
+## Changes Made
+Added a title element to page
 
 ## Links
 Website Link: https://mateonav98.github.io/site-refactory/

@@ -1,5 +1,4 @@
 
-
 * {
     box-sizing: border-box;
     padding: 0;
@@ -117,7 +116,7 @@ p {
     text-align: center;
 }
 
-.benefit-lead img {
+.benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;

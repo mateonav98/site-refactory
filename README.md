@@ -2,7 +2,9 @@
 
 ## Description
 
-Horiseon webpage, where you can learn more about search engine optimation, online reputation management, and social media marketing. Given a base starter code and goal was to refactor code to meet accessibility standards by using semantic HTML elements, following a logical structure independent of styling and positioning, and including accessible alt attributes.
+Horiseon webpage, where you can learn more about search engine optimization, online reputation management, and social media marketing. 
+
+Given a base starter code and goal was to refactor code to meet accessibility standards by using semantic HTML elements, following a logical structure independent of styling and positioning, and including accessible alt attributes.
 
 
 

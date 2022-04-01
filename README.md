@@ -1,18 +1,17 @@
 # Site Refactory
 
-## Task
+## Description
 
-Refactor exisiting code
+Horiseon webpage, where you can learn more about search engine optimation, online reputation management, and social media marketing. Given a base starter code and goal was to refactor code to meet accessibility standards by using semantic HTML elements, following a logical structure independent of styling and positioning, and including accessible alt attributes.
 
-## Changes Made
 
-1. Updated a title element to page
-2. Added roles (banner, navigation, main, etc) to different sections for accessibility
-3. Organized list, p, and other tags to look more clean
-4. Included alt altributes for all images
-5. All links in header are now working
-6. Comments on html and css file
-7. Updated HTML elements with header, navigation, footer, etc
+
+## Visual
+![Alt Text](h1visual.gif)
+
+## Usage
+
+Click the links in the header ("Search Engine Optimation", "Online Reputation Management", and "Social Media Marketing") to take you to your desired section of the page. If not, feel free to check out the side bar to gain insights into cost management, brand awareness, and lead generation. There are also plenty of visuals to be seen as well!
 
 ## Links
 
@@ -22,4 +21,7 @@ Refactor exisiting code
 ## Authors
 
 Mateo Navarro
-UCB Coding Bootcamp
+LinkedIn: www.linkedin.com/in/mateonav
+GitHub: https://github.com/mateonav98
+
+2019 Horiseon Social Solution Services, Inc.

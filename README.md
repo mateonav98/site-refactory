@@ -20,6 +20,11 @@ Click the links in the header ("Search Engine Optimation", "Online Reputation Ma
 1. Website Link: https://mateonav98.github.io/site-refactory/
 2. GitHub Link: https://github.com/mateonav98/site-refactory
 
+# Technologies Used
+
+1. HTML
+2. CSS
+
 ## Authors
 
 Mateo Navarro
